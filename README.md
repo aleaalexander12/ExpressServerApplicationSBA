@@ -11,7 +11,7 @@ A React app that fetches trending GIFs from Giphy API and allows users to search
 - Netlify for deployment
 
 ## Features
-✅ View trending GIFs  
-✅ Search for GIFs  
-✅ Uses Redux Toolkit for state management  
-✅ Responsive design  
+View trending GIFs  
+Search for GIFs  
+Uses Redux Toolkit for state management  
+Responsive design  
